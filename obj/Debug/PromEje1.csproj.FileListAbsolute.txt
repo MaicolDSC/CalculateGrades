@@ -1,0 +1,15 @@
+C:\Users\maico\Desktop\Programas\PromEje1\obj\Debug\PromEje1.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\Programas\PromEje1\obj\Debug\PromEje1.csproj.SuggestedBindingRedirects.cache
+C:\Users\maico\Desktop\Programas\PromEje1\obj\Debug\PromEje1.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\Programas\PromEje1\bin\Debug\PromEje1.exe.config
+C:\Users\maico\Desktop\Programas\PromEje1\bin\Debug\PromEje1.exe
+C:\Users\maico\Desktop\Programas\PromEje1\bin\Debug\PromEje1.pdb
+C:\Users\maico\Desktop\Programas\PromEje1\obj\Debug\PromEje1.exe
+C:\Users\maico\Desktop\Programas\PromEje1\obj\Debug\PromEje1.pdb
+C:\Users\maico\Desktop\C#\PromEje1\bin\Debug\PromEje1.exe.config
+C:\Users\maico\Desktop\C#\PromEje1\bin\Debug\PromEje1.exe
+C:\Users\maico\Desktop\C#\PromEje1\bin\Debug\PromEje1.pdb
+C:\Users\maico\Desktop\C#\PromEje1\obj\Debug\PromEje1.csproj.AssemblyReference.cache
+C:\Users\maico\Desktop\C#\PromEje1\obj\Debug\PromEje1.csproj.CoreCompileInputs.cache
+C:\Users\maico\Desktop\C#\PromEje1\obj\Debug\PromEje1.exe
+C:\Users\maico\Desktop\C#\PromEje1\obj\Debug\PromEje1.pdb
